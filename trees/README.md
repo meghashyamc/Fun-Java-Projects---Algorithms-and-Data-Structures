@@ -14,6 +14,6 @@ KDTree is a 2-dimensional tree that compares points with a horizontal and vertic
 
 Here are three supporting files that were given to help visualize the working of KDTree:
 
-KDTree visualizer: https://coursera.cs.princeton.edu/algs4/assignments/kdtree/files/KdTreeVisualizer.java
-Range search visualizer: https://coursera.cs.princeton.edu/algs4/assignments/kdtree/files/RangeSearchVisualizer.java
+KDTree visualizer: https://coursera.cs.princeton.edu/algs4/assignments/kdtree/files/KdTreeVisualizer.java<br>
+Range search visualizer: https://coursera.cs.princeton.edu/algs4/assignments/kdtree/files/RangeSearchVisualizer.java<br>
 Nearest neighbour visualizer: https://coursera.cs.princeton.edu/algs4/assignments/kdtree/files/NearestNeighborVisualizer.java
